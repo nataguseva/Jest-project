@@ -1,0 +1,1 @@
+![Node CI](https://github.com/nataguseva/Jest-project/workflows/Node%20CI/badge.svg)
